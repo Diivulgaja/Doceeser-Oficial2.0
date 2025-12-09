@@ -16,8 +16,6 @@ import { signInAnonymously, onAuthStateChanged } from "firebase/auth";
 const COLLECTION_ORDERS = "doceeser_pedidos";
 const COLLECTION_CARTS = "carts";
 const DELIVERY_FEE = 2.99;
-const ACAI_ID = 18;
-const ACAI_BASE_PRICE = 17.9;
 const ETA_TEXT = "20–35 min"; // tempo estimado fornecido
 
 // --- DADOS ADICIONAIS AÇAÍ ---
